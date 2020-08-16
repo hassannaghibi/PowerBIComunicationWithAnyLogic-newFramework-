@@ -1,0 +1,13 @@
+{
+    "authenticationMode": "MasterUser",
+    "authorityUri": "https://login.microsoftonline.com/common/",
+    "scope": "https://analysis.windows.net/powerbi/api",
+    "apiUrl": "https://api.powerbi.com/",
+    "clientId": "26088a8b-917a-4211-8150-c4448a9764cf",
+    "workspaceId": "c01b32e6-6e4b-4314-9e93-371778cb76ce",
+    "reportId": "f8ef3ef4-34f6-496b-be66-9ee34495d5bf",
+    "pbiUsername": "info@hassannaghibi.ir",
+    "pbiPassword": "HEV&\"?n46:wpELj",
+    "clientSecret": "C0dC~K75hyasE6N-dbw~Y-3AaaUist86ZR",
+    "tenantId": "320bdf04-00d4-412c-b90e-78898a2ebac2"
+}
